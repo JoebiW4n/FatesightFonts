@@ -2,11 +2,11 @@
  font-family: GoodTimes;
  font-style: normal;
  font-weight: 400;
- src: url(https://rawcdn.githack.com/JoebiW4n/FatesightFonts/main/good_times_rg.otf) ;
+ src: url(https://rawcdn.githack.com/JoebiW4n/FatesightFonts/main/good_times_rg.otf);
 }
 @font-face {
  font-family: ZeroHour;
  font-style: normal;
  font-weight: 400;
- src: url(https://rawcdn.githack.com/JoebiW4n/FatesightFonts/main/zero_hour.otf) ;
+ src: url(https://rawcdn.githack.com/JoebiW4n/FatesightFonts/main/zero_hour.otf);
 }
