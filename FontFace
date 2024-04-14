@@ -11,8 +11,8 @@
  src: url(https://rawcdn.githack.com/JoebiW4n/FatesightFonts/main/zero_hour.otf);
 }
 @font-face {
- font-family: ZeroHour;
+ font-family: ModernaCondensed;
  font-style: normal;
  font-weight: 400;
- src: url(https://rawcdn.githack.com/JoebiW4n/FatesightFonts/main/modernacondensed-medium.otf);
+ src: url(https://rawcdn.githack.com/JoebiW4n/FatesightFonts/0b265e0eaa747b68b76bf30e073ce829b4a1052e/modernacondensed-medium.otf);
 }
